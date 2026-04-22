@@ -1,1 +1,0 @@
-# VULPS-PDF-Leitor
